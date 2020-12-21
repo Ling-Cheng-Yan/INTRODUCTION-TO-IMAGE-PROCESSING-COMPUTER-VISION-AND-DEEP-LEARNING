@@ -1,0 +1,13 @@
+Epoch: 0 	Training Loss: 0.073106 	Training Accuracy: 97.257435
+Epoch: 0 	Validating Loss: 0.052207 	Validating Accuracy: 97.969949
+Epoch: 1 	Training Loss: 0.040321 	Training Accuracy: 98.549488
+Epoch: 1 	Validating Loss: 0.041306 	Validating Accuracy: 98.551790
+Epoch: 2 	Training Loss: 0.031565 	Training Accuracy: 98.848123
+Epoch: 2 	Validating Loss: 0.040121 	Validating Accuracy: 98.353581
+Epoch: 3 	Training Loss: 0.027688 	Training Accuracy: 99.066766
+Epoch: 3 	Validating Loss: 0.052406 	Validating Accuracy: 98.065857
+Epoch: 4 	Training Loss: 0.025054 	Training Accuracy: 99.152090
+Epoch: 4 	Validating Loss: 0.042335 	Validating Accuracy: 98.449488
+learning_rate: 0.0001 
+batch_size: 32 
+num_epochs: 5 
